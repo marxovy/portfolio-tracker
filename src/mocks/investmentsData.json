@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "investmentName": "Stocks Portfolio",
+    "investmentType": "Stocks",
+    "status": "Active",
+    "date": "2023-12-15",
+    "name": "John Doe",
+    "value": 5000
+  },
+  {
+    "id": 2,
+    "investmentName": "Bitcoin",
+    "investmentType": "Crypto",
+    "status": "Active",
+    "date": "2023-11-20",
+    "name": "Jane Smith",
+    "value": 10000
+  },
+  {
+    "id": 3,
+    "investmentName": "Gold Bullion",
+    "investmentType": "Gold",
+    "status": "Closed",
+    "date": "2023-10-10",
+    "name": "Michael Johnson",
+    "value": 20000
+  },
+  {
+    "id": 4,
+    "investmentName": "Savings Account",
+    "investmentType": "Cash",
+    "status": "Active",
+    "date": "2023-09-05",
+    "name": "Emily Brown",
+    "value": 15000
+  },
+  {
+    "id": 5,
+    "investmentName": "Real Estate Investment Trust",
+    "investmentType": "Property",
+    "status": "Closed",
+    "date": "2023-08-01",
+    "name": "Robert Wilson",
+    "value": 30000
+  },
+  {
+    "id": 6,
+    "investmentName": "Ethereum",
+    "investmentType": "Crypto",
+    "status": "Active",
+    "date": "2023-07-25",
+    "name": "Alice Johnson",
+    "value": 8000
+  },
+  {
+    "id": 7,
+    "investmentName": "Tesla Stocks",
+    "investmentType": "Stocks",
+    "status": "Active",
+    "date": "2023-06-20",
+    "name": "David Lee",
+    "value": 12000
+  },
+  {
+    "id": 8,
+    "investmentName": "Silver ETF",
+    "investmentType": "Commodity",
+    "status": "Closed",
+    "date": "2023-05-15",
+    "name": "Sarah Williams",
+    "value": 5000
+  },
+  {
+    "id": 9,
+    "investmentName": "Government Bonds",
+    "investmentType": "Fixed Income",
+    "status": "Active",
+    "date": "2023-04-10",
+    "name": "Michael Brown",
+    "value": 25000
+  },
+  {
+    "id": 10,
+    "investmentName": "Rental Property",
+    "investmentType": "Real Estate",
+    "status": "Closed",
+    "date": "2023-03-05",
+    "name": "Jennifer Davis",
+    "value": 40000
+  },
+  {
+    "id": 11,
+    "investmentName": "Apple Stocks",
+    "investmentType": "Stocks",
+    "status": "Active",
+    "date": "2023-02-01",
+    "name": "Daniel Martinez",
+    "value": 15000
+  },
+  {
+    "id": 12,
+    "investmentName": "Gold Coins",
+    "investmentType": "Gold",
+    "status": "Closed",
+    "date": "2022-12-25",
+    "name": "Olivia Taylor",
+    "value": 10000
+  },
+  {
+    "id": 13,
+    "investmentName": "Real Estate Development Project",
+    "investmentType": "Property",
+    "status": "Active",
+    "date": "2022-11-20",
+    "name": "William Rodriguez",
+    "value": 75000
+  },
+  {
+    "id": 14,
+    "investmentName": "Cash Reserve",
+    "investmentType": "Cash",
+    "status": "Active",
+    "date": "2022-10-15",
+    "name": "Emma Wilson",
+    "value": 3000
+  },
+  {
+    "id": 15,
+    "investmentName": "Bitcoin Mining Rig",
+    "investmentType": "Crypto",
+    "status": "Active",
+    "date": "2022-09-10",
+    "name": "James Brown",
+    "value": 20000
+  },
+  {
+    "id": 16,
+    "investmentName": "Oil Futures",
+    "investmentType": "Commodity",
+    "status": "Closed",
+    "date": "2022-08-05",
+    "name": "Sophia Martinez",
+    "value": 8000
+  },
+  {
+    "id": 17,
+    "investmentName": "Farmland",
+    "investmentType": "Land",
+    "status": "Active",
+    "date": "2022-07-01",
+    "name": "Mia Anderson",
+    "value": 35000
+  },
+  {
+    "id": 18,
+    "investmentName": "Tech Startup",
+    "investmentType": "Equity",
+    "status": "Active",
+    "date": "2022-06-01",
+    "name": "Liam Wilson",
+    "value": 50000
+  },
+  {
+    "id": 19,
+    "investmentName": "Amazon Stocks",
+    "investmentType": "Stocks",
+    "status": "Active",
+    "date": "2022-05-01",
+    "name": "Ella Johnson",
+    "value": 18000
+  },
+  {
+    "id": 20,
+    "investmentName": "Silver Bars",
+    "investmentType": "Commodity",
+    "status": "Closed",
+    "date": "2022-04-01",
+    "name": "Noah Garcia",
+    "value": 6000
+  },
+  {
+    "id": 21,
+    "investmentName": "Real Estate Investment Trust",
+    "investmentType": "Property",
+    "status": "Active",
+    "date": "2022-03-01",
+    "name": "Ava Smith",
+    "value": 25000
+  },
+  {
+    "id": 22,
+    "investmentName": "USD Savings Account",
+    "investmentType": "Cash",
+    "status": "Active",
+    "date": "2022-02-01",
+    "name": "Logan Miller",
+    "value": 10000
+  },
+  {
+    "id": 23,
+    "investmentName": "Ethereum",
+    "investmentType": "Crypto",
+    "status": "Closed",
+    "date": "2021-12-31",
+    "name": "Sofia Brown",
+    "value": 7000
+  },
+  {
+    "id": 24,
+    "investmentName": "Tech Company IPO",
+    "investmentType": "Equity",
+    "status": "Active",
+    "date": "2021-11-30",
+    "name": "Jackson Davis",
+    "value": 30000
+  },
+  {
+    "id": 25,
+    "investmentName": "Gold ETF",
+    "investmentType": "Gold",
+    "status": "Active",
+    "date": "2021-10-30",
+    "name": "Penelope Wilson",
+    "value": 15000
+  },
+  {
+    "id": 26,
+    "investmentName": "Farmland Investment",
+    "investmentType": "Land",
+    "status": "Closed",
+    "date": "2021-09-30",
+    "name": "Lucas Taylor",
+    "value": 40000
+  },
+  {
+    "id": 27,
+    "investmentName": "Bitcoin",
+    "investmentType": "Crypto",
+    "status": "Active",
+    "date": "2021-08-31",
+    "name": "Aria Garcia",
+    "value": 25000
+  },
+  {
+    "id": 28,
+    "investmentName": "Apple Stocks",
+    "investmentType": "Stocks",
+    "status": "Closed",
+    "date": "2021-07-31",
+    "name": "Mateo Brown",
+    "value": 20000
+  },
+  {
+    "id": 29,
+    "investmentName": "Real Estate Development",
+    "investmentType": "Property",
+    "status": "Active",
+    "value": 45000
+  }
+]
